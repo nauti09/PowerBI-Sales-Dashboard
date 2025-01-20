@@ -11,7 +11,7 @@ The **Real-Time Sales Dashboard** is an interactive Power BI report designed to 
 ## 📂 Report Contents
 
 ### 🏗️ 1. Data Model
-- **📡 Sources:** Various data connections used in the report.
+- **📡 Source Dataset:** **https://www.kaggle.com/datasets/weitat/sample-sales?resource=download**
 - **🔄 Transformations:** Data cleansing and shaping within Power BI.
 - **🔗 Relationships:** Links between tables to support meaningful analysis.
 
